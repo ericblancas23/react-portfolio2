@@ -70,12 +70,34 @@ class Main extends React.Component {
           <h2 className="major">Work</h2>
           <div className="container">
             <div className="row">
+
+            <div class="col-sm-6 col-lg-3">
+            <img
+              class="card-img-top"
+              alt="Card header image"
+              src={require('../images/candycrush.png')}
+              style={{ height: 250, width: 250, marginTop: '1.5cm' }}
+            />
+            <div className="card mt-3">
+              <div className="card-body">
+                <h5 class="card-title">Phaser.io - Candy Crush</h5>
+                <p class="card-text">
+                  A game utilizing phaser.io and made with Angular along with typescript
+                </p>
+                <a href="https://github.com/ericblancas23/phaser-candycrush">
+                  Github Repo
+                </a><br />
+                <a href="https://candy-game.herokuapp.com/">play the game here</a>
+              </div>
+            </div>
+          </div>
+
               <div class="col-sm-6 col-lg-3">
                 <img
                   class="card-img-top"
                   alt="Card header image"
                   src={require('../images/lambdashowcase.png')}
-                  style={{ height: 250, width: 250 }}
+                  style={{ height: 250, width: 250, marginTop: '1.5cm' }}
                 />
                 <div className="card mt-3 mb-3">
                   <div className="card-body">
