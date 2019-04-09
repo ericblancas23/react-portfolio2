@@ -70,27 +70,30 @@ class Main extends React.Component {
           <h2 className="major">Work</h2>
           <div className="container">
             <div className="row">
-
-            <div class="col-sm-6 col-lg-3">
-            <img
-              class="card-img-top"
-              alt="Card header image"
-              src={require('../images/candycrush.png')}
-              style={{ height: 250, width: 250, marginTop: '1.5cm' }}
-            />
-            <div className="card mt-3">
-              <div className="card-body">
-                <h5 class="card-title">Phaser.io - Candy Crush</h5>
-                <p class="card-text">
-                  A game utilizing phaser.io and made with Angular along with typescript
-                </p>
-                <a href="https://github.com/ericblancas23/phaser-candycrush">
-                  Github Repo
-                </a><br />
-                <a href="https://candy-game.herokuapp.com/">play the game here</a>
+              <div class="col-sm-6 col-lg-3">
+                <img
+                  class="card-img-top"
+                  alt="Card header image"
+                  src={require('../images/candycrush.png')}
+                  style={{ height: 250, width: 250, marginTop: '1.5cm' }}
+                />
+                <div className="card mt-3">
+                  <div className="card-body">
+                    <h5 class="card-title">Phaser.io - Candy Crush</h5>
+                    <p class="card-text">
+                      A game utilizing phaser.io and made with Angular along
+                      with typescript
+                    </p>
+                    <a href="https://github.com/ericblancas23/phaser-candycrush">
+                      Github Repo
+                    </a>
+                    <br />
+                    <a href="https://candy-game.herokuapp.com/">
+                      play the game here
+                    </a>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
 
               <div class="col-sm-6 col-lg-3">
                 <img
@@ -107,6 +110,10 @@ class Main extends React.Component {
                       built in React, MongoDB, and Express.
                     </p>
                     <a href="https://github.com/LSPortfolio">Github Repo</a>
+                    <br />
+                    <a href="https://lambdashowcase.herokuapp.com/">
+                      Vist Project
+                    </a>
                   </div>
                 </div>
               </div>
@@ -127,6 +134,10 @@ class Main extends React.Component {
                     </p>
                     <a href="https://github.com/ericblancas23/movingImages-cliphy">
                       Github Repo
+                    </a>
+                    <br />
+                    <a href="https://movingimages.herokuapp.com/">
+                      Visit Project
                     </a>
                   </div>
                 </div>
@@ -151,6 +162,8 @@ class Main extends React.Component {
                 <a href="https://github.com/ericblancas23/airbnb-clone">
                   Github Repo
                 </a>
+                <br />
+                <a href="https://airbnbproject.herokuapp.com/">Visit Project</a>
               </div>
             </div>
           </div>
@@ -172,6 +185,8 @@ class Main extends React.Component {
                 <a href="https://github.com/ericblancas23/weather-application">
                   Github Repo
                 </a>
+                <br />
+                <a href="https://merry-weather.herokuapp.com/">Visit Project</a>
               </div>
             </div>
           </div>
@@ -276,6 +291,7 @@ class Main extends React.Component {
                 <a href="https://github.com/ericblancas23/spaceX-fiddle">
                   Github Repo
                 </a>
+                <br />
               </div>
             </div>
           </div>
