@@ -16,7 +16,7 @@ const Header = props => (
           <p>Not Your Average Software Engineer</p>
           <p>
             <strong>
-              <a href="https://drive.google.com/file/d/1RaRA20tU7lv-sYvD44dJ4l7JWIi4pD8r/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1FAA6kY2HXF5muEeQJWmX7w17rNwwZHwf/view?usp=sharing">
                 VIEW MY RESUME HERE
               </a>
             </strong>

@@ -53,7 +53,7 @@ class Main extends React.Component {
           </p>
 
           <strong>
-            <a href="https://docs.google.com/document/d/1AmHWyXho8qwMzLy3gSTAD-rhTOpzc5wwtVr7syGV3Ws/edit?usp=sharing">
+            <a href="https://drive.google.com/file/d/1FAA6kY2HXF5muEeQJWmX7w17rNwwZHwf/view?usp=sharing">
               VIEW MY RESUME HERE
             </a>
           </strong>
